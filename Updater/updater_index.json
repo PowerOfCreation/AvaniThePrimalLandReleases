@@ -1,0 +1,92 @@
+{
+  "Entries": [
+    {
+      "Operation": 4,
+      "RelativePath": "AvaniLauncher.deps.json",
+      "Attributes": 32,
+      "LastWriting": "2021-02-17T16:59:00.8082241Z",
+      "Size": 3122,
+      "Hash": "R5RRfdnFRKAs7UmUMWm8CDgtaKk"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "AvaniLauncher.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-02-17T16:59:00.6712214Z",
+      "Size": 3164160,
+      "Hash": "cw3e89nhLcQbylq7GBWbY2t8Gg0"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "AvaniLauncher.exe",
+      "Attributes": 32,
+      "LastWriting": "2021-02-17T16:59:00.6852214Z",
+      "Size": 1238016,
+      "Hash": "OzcPTsHFWdi/+ZKMRGtApc9GC1k"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "AvaniLauncher.pdb",
+      "Attributes": 32,
+      "LastWriting": "2021-02-17T16:59:00.6602208Z",
+      "Size": 18292,
+      "Hash": "qSrKu4dX0SWGmWsgD/1yGcHYimU"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "AvaniLauncher.runtimeconfig.dev.json",
+      "Attributes": 32,
+      "LastWriting": "2021-02-17T16:59:00.9262245Z",
+      "Size": 248,
+      "Hash": "3xyr/0a9FgKcM++Ih3WEwe9/g7k"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "AvaniLauncher.runtimeconfig.json",
+      "Attributes": 32,
+      "LastWriting": "2021-02-17T16:59:00.9232243Z",
+      "Size": 161,
+      "Hash": "bRyO93Suebv6tJNCWe1P9Jne/G4"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "MHLab.Patch.Core.Client.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-26T16:05:28.7329683Z",
+      "Size": 48128,
+      "Hash": "38KBmS1gquVnTItRBkxKEqkWNBA"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "MHLab.Patch.Core.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-26T16:05:27.3311215Z",
+      "Size": 43520,
+      "Hash": "5lzZsvJGXsaOdmbpe6s6Kanxy8k"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Newtonsoft.Json.dll",
+      "Attributes": 32,
+      "LastWriting": "2019-11-08T23:56:44Z",
+      "Size": 693680,
+      "Hash": "34P8s2OVlq1C1b6DFO+dZyB5GYs"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Serilog.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-06-11T22:09:22Z",
+      "Size": 127488,
+      "Hash": "9p/x70igG1ce7hJFbEt+rQW1tNk"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Serilog.Sinks.File.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-05-15T19:31:44Z",
+      "Size": 29696,
+      "Hash": "3DNYj99FeVLyAxQUdKswtypYCCA"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AvaniLauncher/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Serilog": "2.10.0-dev-01191",
+          "Serilog.Sinks.File": "5.0.0-dev-00880",
+          "MHLab.Patch.Core.Client": "1.0.0.0",
+          "MHLab.Patch.Core": "1.0.0.0"
+        },
+        "runtime": {
+          "AvaniLauncher.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Serilog/2.10.0-dev-01191": {
+        "runtime": {
+          "lib/netstandard2.1/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.10.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.File/5.0.0-dev-00880": {
+        "dependencies": {
+          "Serilog": "2.10.0-dev-01191"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Serilog.Sinks.File.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "MHLab.Patch.Core.Client/1.0.0.0": {
+        "runtime": {
+          "MHLab.Patch.Core.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MHLab.Patch.Core/1.0.0.0": {
+        "runtime": {
+          "MHLab.Patch.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvaniLauncher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Serilog/2.10.0-dev-01191": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0ZG/gpldpDBGXEjDKHIcQCe3E4ufv98Iaxn2b4X54bOPWJJssquP2QiTEkWIXbaoDvmegUWB3fHwwHQhFgedJw==",
+      "path": "serilog/2.10.0-dev-01191",
+      "hashPath": "serilog.2.10.0-dev-01191.nupkg.sha512"
+    },
+    "Serilog.Sinks.File/5.0.0-dev-00880": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3NsdteItVxUccSvWeCPesdmxy4xGjCz0aZBHM8FeMxhuClAIRnWSFD/k0EfZ+OAYmJZEYdaa4+NjsCUjqKPQZw==",
+      "path": "serilog.sinks.file/5.0.0-dev-00880",
+      "hashPath": "serilog.sinks.file.5.0.0-dev-00880.nupkg.sha512"
+    },
+    "MHLab.Patch.Core.Client/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MHLab.Patch.Core/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
