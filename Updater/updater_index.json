@@ -4,7 +4,7 @@
       "Operation": 4,
       "RelativePath": "AvaniLauncher.deps.json",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T16:59:00.8082241Z",
+      "LastWriting": "2021-02-17T18:28:06.7251847Z",
       "Size": 3122,
       "Hash": "R5RRfdnFRKAs7UmUMWm8CDgtaKk"
     },
@@ -12,15 +12,15 @@
       "Operation": 4,
       "RelativePath": "AvaniLauncher.dll",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T16:59:00.6712214Z",
+      "LastWriting": "2021-02-17T18:28:06.689185Z",
       "Size": 3164160,
-      "Hash": "cw3e89nhLcQbylq7GBWbY2t8Gg0"
+      "Hash": "hdONntxtIAQIifYA1x80gSqOgt4"
     },
     {
       "Operation": 4,
       "RelativePath": "AvaniLauncher.exe",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T17:55:04.7817318Z",
+      "LastWriting": "2021-02-17T18:28:06.7011868Z",
       "Size": 1238016,
       "Hash": "OzcPTsHFWdi/+ZKMRGtApc9GC1k"
     },
@@ -28,15 +28,15 @@
       "Operation": 4,
       "RelativePath": "AvaniLauncher.pdb",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T16:59:00.6602208Z",
+      "LastWriting": "2021-02-17T18:28:06.6791853Z",
       "Size": 18292,
-      "Hash": "qSrKu4dX0SWGmWsgD/1yGcHYimU"
+      "Hash": "Xkm520k1FWw9byGs9hURHWTU3Uo"
     },
     {
       "Operation": 4,
       "RelativePath": "AvaniLauncher.runtimeconfig.dev.json",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T16:59:00.9262245Z",
+      "LastWriting": "2021-02-17T18:28:06.7271857Z",
       "Size": 248,
       "Hash": "3xyr/0a9FgKcM++Ih3WEwe9/g7k"
     },
@@ -44,7 +44,7 @@
       "Operation": 4,
       "RelativePath": "AvaniLauncher.runtimeconfig.json",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T16:59:00.9232243Z",
+      "LastWriting": "2021-02-17T18:28:06.7271857Z",
       "Size": 161,
       "Hash": "bRyO93Suebv6tJNCWe1P9Jne/G4"
     },
@@ -87,6 +87,14 @@
       "LastWriting": "2020-05-15T19:31:44Z",
       "Size": 29696,
       "Hash": "3DNYj99FeVLyAxQUdKswtypYCCA"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Logs/logs-20210217.txt",
+      "Attributes": 32,
+      "LastWriting": "2021-02-17T18:01:37.0910444Z",
+      "Size": 190,
+      "Hash": "vXwxAiTOSJLWpAHhqjNLQAhB+wY"
     }
   ]
 }
