@@ -4,7 +4,7 @@
       "Operation": 4,
       "RelativePath": "AvaniLauncher.deps.json",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T18:28:06.7251847Z",
+      "LastWriting": "2021-02-17T18:43:02.0369584Z",
       "Size": 3122,
       "Hash": "R5RRfdnFRKAs7UmUMWm8CDgtaKk"
     },
@@ -36,7 +36,7 @@
       "Operation": 4,
       "RelativePath": "AvaniLauncher.runtimeconfig.dev.json",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T18:28:06.7271857Z",
+      "LastWriting": "2021-02-17T18:43:02.1509574Z",
       "Size": 248,
       "Hash": "3xyr/0a9FgKcM++Ih3WEwe9/g7k"
     },
@@ -44,7 +44,7 @@
       "Operation": 4,
       "RelativePath": "AvaniLauncher.runtimeconfig.json",
       "Attributes": 32,
-      "LastWriting": "2021-02-17T18:28:06.7271857Z",
+      "LastWriting": "2021-02-17T18:43:02.1479582Z",
       "Size": 161,
       "Hash": "bRyO93Suebv6tJNCWe1P9Jne/G4"
     },
@@ -87,14 +87,6 @@
       "LastWriting": "2020-05-15T19:31:44Z",
       "Size": 29696,
       "Hash": "3DNYj99FeVLyAxQUdKswtypYCCA"
-    },
-    {
-      "Operation": 4,
-      "RelativePath": "Logs/logs-20210217.txt",
-      "Attributes": 32,
-      "LastWriting": "2021-02-17T18:01:37.0910444Z",
-      "Size": 190,
-      "Hash": "vXwxAiTOSJLWpAHhqjNLQAhB+wY"
     }
   ]
 }
