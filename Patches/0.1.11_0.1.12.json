@@ -1,0 +1,141 @@
+{
+  "From": "0.1.11",
+  "To": "0.1.12",
+  "Hash": "bjkkyXfwGLMu8HLmwuocz1N/nMs",
+  "TotalSize": 1026766,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:12:06.3326622Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:12:06.5881916Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:49.8341768Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:55.0611317Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level1.resS",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:55.0431314Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:12:09.9944532Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/RuntimeInitializeOnLoads.json",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:48.9496061Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/ScriptingAssemblies.json",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:12:06.2496599Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:12:10.3000369Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets1.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:12:13.7977412Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/AwesomeTechnologies.VegetationStudioPro.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:46.4879878Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/GameplaySystems.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:47.5184546Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/Unity.Burst.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:43.4477971Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/Unity.Collections.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:45.5318943Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Avani The Primal Land_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-22T16:56:07Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/Unity.Jobs.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:11:45.8008997Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:12:05.7276306Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.txt",
+      "Attributes": 32,
+      "LastWriting": "2021-03-14T18:12:05.7746306Z",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "Avani The Primal Land_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    }
+  ]
+}
