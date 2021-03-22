@@ -1,0 +1,162 @@
+{
+  "From": "0.1.11",
+  "To": "0.2.0",
+  "Hash": "9odKIfeP+3XB0CAj2SRy2b8vchg",
+  "TotalSize": 3631247,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:51.8561281Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:52.1582365Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:35.0346538Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:40.506359Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level1.resS",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:40.4911285Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:55.6385631Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/resources.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:55.600561Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/RuntimeInitializeOnLoads.json",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:33.9806084Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/ScriptingAssemblies.json",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:51.7681304Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:55.9545611Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets1.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:59.3974382Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets1.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:59.3610428Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/AwesomeTechnologies.VegetationStudioPro.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:31.4653549Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/GameplaySystems.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:32.5998713Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/Unity.Burst.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:28.5400723Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/Unity.Collections.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:30.6898417Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Avani The Primal Land_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-22T16:56:07Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/Unity.Jobs.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:30.9498414Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:51.2891093Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.txt",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:35:51.34811Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-03-22T21:37:19.047724Z",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "Avani The Primal Land_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    }
+  ]
+}

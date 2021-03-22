@@ -1,0 +1,16 @@
+This game uses these sounds from freesound:
+S: Eating chips.wav by DeadAge | License: Creative Commons 0
+S: screech_owl.wav by ivolipa | License: Creative Commons 0
+S: forest-bird (2).WAV by sama66 | License: Creative Commons 0
+S: Geese fly over my head 3.wav by straget | License: Attribution
+S: Bird Whistling, Single, Robin, A.wav by InspectorJ | License: Attribution
+S: Bird call in spring.mp3 by jmiddlesworth | License: Creative Commons 0
+S: Crate Break 2.wav by kevinkace -- https://freesound.org/s/66778/ -- License: Creative Commons 0
+S: Male Hurt by Fabrizio84 -- https://freesound.org/s/457965/ -- License: Creative Commons 0
+S: Punch_02.wav by thefsoundman -- https://freesound.org/s/118513/ -- License: Creative Commons 0
+S: AttackSound_FreeStyle_02.wav by Smullen93 -- https://freesound.org/s/340333/ -- License: Attribution
+S: Melee Attack with Voice 1 by unfa -- https://freesound.org/s/221538/ -- License: Attribution
+S: building placement.WAV by strange_dragoon -- https://freesound.org/s/271134/ -- License: Attribution
+
+Music used:
+Somnolent - The Tides
