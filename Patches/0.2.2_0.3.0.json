@@ -1,0 +1,267 @@
+{
+  "From": "0.2.2",
+  "To": "0.3.0",
+  "Hash": "swIvCVbYpV2L8o7Wqxmnu2Gz3xY",
+  "TotalSize": 15366941,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "attribution.txt",
+      "Attributes": 32,
+      "LastWriting": "2021-08-31T13:22:28.6420089Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land.exe",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:59.1516184Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UnityCrashHandler64.exe",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:11:28Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UnityPlayer.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:11:24Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:52.5922023Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:52.8527537Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:36.1945541Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:40.9991581Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:54.7134067Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/RuntimeInitializeOnLoads.json",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:34.9219996Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:55.0144019Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets1.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:57.4999457Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets1.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:57.4419441Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets1.resource",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:57.2584306Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/GameplaySystems.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:32.9373818Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/System.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T22:45:42Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/System.Net.Http.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T22:45:42Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:10:38Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.CoreModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:10:34Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:11:06Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:10:52Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:10:38Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.SpatialTracking.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:27.9465526Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:26.6904571Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:11:06Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.UIModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:10:50Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:11:00Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:10:48Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:29.0335872Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:52.130191Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.txt",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:52.1782032Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Resources/unity default resources",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:06:40Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Resources/unity_builtin_extra",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:11:57.7700648Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:11:26Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-08-16T23:06:38Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-09-23T20:41:32.2880583Z",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "WinPixEventRuntime.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    }
+  ]
+}
