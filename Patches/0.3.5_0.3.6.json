@@ -1,0 +1,78 @@
+{
+  "From": "0.3.5",
+  "To": "0.3.6",
+  "Hash": "jNE5oCk/J7qE3Pyw15C0aEJBiuU",
+  "TotalSize": 858135,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:20.7908052Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:08.4108036Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:23.5957302Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/resources.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:23.5517372Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:23.9257433Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets1.assets",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:27.2970311Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Managed/GameplaySystems.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:00.3085805Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:19.8945699Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.txt",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:44:19.9395802Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2022-02-10T19:46:14.6452252Z",
+      "Size": 0
+    }
+  ]
+}
