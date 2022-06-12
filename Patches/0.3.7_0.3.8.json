@@ -1,0 +1,120 @@
+{
+  "From": "0.3.7",
+  "To": "0.3.8",
+  "Hash": "66bAoCtrbb1q+FK1JKQpX1h9Fqo",
+  "TotalSize": 16307710,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land.exe",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:17:30.2462575Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "GameAssembly.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:17.2855322Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.5861414Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.5801366Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.5721385Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.585137Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/level1.resS",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.585137Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.6161379Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/RuntimeInitializeOnLoads.json",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:17:30.2487709Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/ScriptingAssemblies.json",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:17:30.2468483Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.585137Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/sharedassets1.assets",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.6021372Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:12.5341037Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Avani The Primal Land_Data/il2cpp_data/Resources/Newtonsoft.Json.dll-resources.dat",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:12.523104Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:38:00.5671377Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2022-06-12T09:42:27.0552395Z",
+      "Size": 0
+    }
+  ]
+}
