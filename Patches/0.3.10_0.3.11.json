@@ -1,0 +1,36 @@
+{
+  "From": "0.3.10",
+  "To": "0.3.11",
+  "Hash": "iyABuC0RmU1qzHwqInOQf66A3ew",
+  "TotalSize": 132507,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2022-09-20T14:26:51.6114639Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2022-09-20T14:26:51.6764621Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Avani The Primal Land_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-09-20T14:26:51.6024638Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2022-09-20T14:28:16.0744905Z",
+      "Size": 0
+    }
+  ]
+}
